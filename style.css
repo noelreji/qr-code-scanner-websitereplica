@@ -1,0 +1,36 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+}
+.subcontainer1{
+    display: inline;
+    width: 300px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    
+}
+
+img{
+    max-width: 90%;
+    max-height: 90%;
+    display:block;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+    position: relative;
+    left: 5px;
+    top: 4px;
+    
+}
+
+#tex{
+    font-family: Outfit;
+    font-size: 18px;
+    font-weight: 700 ;
+    padding:18px;
+    padding-top: 4px;
+}
